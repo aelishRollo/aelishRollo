@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Creating songs**
 
-- 🤝 I’m looking for help with [Prompt Library](https://github.com/aelishRollo/Prompt-Library)
+- 🤝 I’m looking for help with [Prompt Palette](https://github.com/aelishRollo/Prompt-Palette)
 
 - 👨‍💻 All of my projects are available at [https://rollison.dev](https://rollison.dev)
 
