@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alec Rollison</h1>
+<img src="https://i.imgur.com/7b3f7cF.jpg" width="100%">
 <h3 align="center">A passionate full-stack developer from Indianapolis, IN</h3>
 
 <p align="center">
