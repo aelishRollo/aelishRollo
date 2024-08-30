@@ -19,7 +19,7 @@
 
 
 
-- 🔭 I’m currently working on [Jam Tools](https://github.com/orgs/jamtools/repositories)
+- 🔭 I’m currently working on [Jam Tools](https://github.com/jamtools/jamtools)
 
 - 👯 I’m looking to collaborate on **Creating songs**
 
