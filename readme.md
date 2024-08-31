@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/MHsfol1.jpeg" width="100%">
+[<img src="https://i.imgur.com/MHsfol1.jpeg" width="100%">](https://rollison.dev)
 <h3 align="center">A passionate full-stack developer from Indianapolis, IN</h3>
 
 <p align="center">
